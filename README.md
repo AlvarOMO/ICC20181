@@ -1,5 +1,5 @@
 # ICC20181
-#Se busca hallar el volumen de un prisma
+#Se busca hallar el volumen de un prisma de base rectangular.
 
     def solid_area(largo, ancho, altura):
         largo=int(input("Ingresa el largo de la base del prisma: "))
