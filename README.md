@@ -3,8 +3,8 @@
 
     def solid_area(largo, ancho, altura):
         largo=int(input("Ingresa el largo de la base del prisma: "))
-        ancho=int(input("ingresa ancho: "))
-        altura=int(input("Ingresa altura: "))
-        volumen=largo*ancho*alto
- 
-    are
+        ancho=int(input("Ingresa el ancho de la base del prisma: "))
+        altura=int(input("Ingresa la altura del prisma: " ))
+        return volumen(largo*ancho*altura)
+
+
